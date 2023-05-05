@@ -1,12 +1,12 @@
 
 ## Chef Recipes  Hunter website
 
-Live Website Link -> [Link]()
+Live Website Link -> [Link](https://chef-recie-hunting.web.app/)
 
 
 # MY Chef Server 
 
-Server -> [Link]("https://chef-server-kamrul25.vercel.app/chef")
+Server -> [Link](https://chef-server-kamrul25.vercel.app/chef)
 
 # Documentation 
 
